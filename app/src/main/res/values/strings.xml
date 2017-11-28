@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DtW</string>
+    <string name="Snap">Picture</string>
+    <string name="Save">Save</string>
+    <string name="Picturename">PictureName</string>
+    <string name="delete">Delete Image</string>
+    <string name="update">Update Date</string>
+</resources>
